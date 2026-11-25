@@ -90,6 +90,20 @@ jobs:
         with:
           path: .
 
+      # The artifact listing lags its upload: deploy-pages read "Found 0 artifact(s)" one second after a finalized upload
+      # on every run of this repo (2026-11-24, five failures). Wait until the run's artifact is LISTED, at most a minute.
+      - name: Wait for the artifact to be listed
+        uses: actions/github-script@v8
+        with:
+          script: |
+            for (let i = 0; i < 30; i++) {
+              const { data } = await github.rest.actions.listWorkflowRunArtifacts({
+                owner: context.repo.owner, repo: context.repo.repo, run_id: context.runId,
+              });
+              if (data.artifacts.some((a) => a.name === 'github-pages')) { core.info(`listed after ${i * 2}s`); return; }
+              await new Promise((r) => setTimeout(r, 2000));
+            }
+            core.warning('github-pages not listed after 60s; deploying anyway');
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v5
