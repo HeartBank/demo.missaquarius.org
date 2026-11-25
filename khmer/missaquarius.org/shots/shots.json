@@ -1,0 +1,649 @@
+{
+ "made": "2026-11-25T01:11:06.783Z",
+ "viewport": {
+  "width": 390,
+  "height": 844
+ },
+ "states": {
+  "home": {
+   "url": "/km/",
+   "found": 44,
+   "images": 17
+  },
+  "home-footer": {
+   "url": "/km/",
+   "found": 0,
+   "images": 0
+  },
+  "bodhisattva": {
+   "url": "/km/bodhisattva.html",
+   "found": 23,
+   "images": 13
+  },
+  "bodhisattva-footer": {
+   "url": "/km/bodhisattva.html",
+   "found": 0,
+   "images": 0
+  },
+  "letters": {
+   "url": "/km/letters/",
+   "found": 18,
+   "images": 7
+  },
+  "letters-footer": {
+   "url": "/km/letters/",
+   "found": 0,
+   "images": 0
+  }
+ },
+ "entries": {
+  "home:body.main.p1": {
+   "img": "home-0.webp",
+   "x": 20,
+   "y": 194,
+   "w": 350,
+   "h": 34
+  },
+  "home:body.main.p2": {
+   "img": "home-0.webp",
+   "x": 20,
+   "y": 238,
+   "w": 350,
+   "h": 24
+  },
+  "home:body.main.p3": {
+   "img": "home-0.webp",
+   "x": 20,
+   "y": 309,
+   "w": 350,
+   "h": 266
+  },
+  "home:body.main.p4": {
+   "img": "home-0.webp",
+   "x": 20,
+   "y": 592,
+   "w": 350,
+   "h": 237
+  },
+  "home:body.main.p5": {
+   "img": "home-1.webp",
+   "x": 20,
+   "y": 346,
+   "w": 350,
+   "h": 152
+  },
+  "home:body.main.h21": {
+   "img": "home-1.webp",
+   "x": 20,
+   "y": 546,
+   "w": 350,
+   "h": 47
+  },
+  "home:body.main.p6": {
+   "img": "home-2.webp",
+   "x": 20,
+   "y": 288,
+   "w": 350,
+   "h": 266
+  },
+  "home:body.main.p7": {
+   "img": "home-2.webp",
+   "x": 20,
+   "y": 571,
+   "w": 350,
+   "h": 178
+  },
+  "home:body.main.h22": {
+   "img": "home-2.webp",
+   "x": 20,
+   "y": 796,
+   "w": 350,
+   "h": 47
+  },
+  "home:body.main.p8": {
+   "img": "home-3.webp",
+   "x": 20,
+   "y": 259,
+   "w": 350,
+   "h": 326
+  },
+  "home:body.main.p9.a": {
+   "img": "home-3.webp",
+   "x": 20,
+   "y": 606,
+   "w": 86,
+   "h": 20
+  },
+  "home:body.main.h23": {
+   "img": "home-3.webp",
+   "x": 20,
+   "y": 679,
+   "w": 350,
+   "h": 47
+  },
+  "home:body.main.p10": {
+   "img": "home-4.webp",
+   "x": 20,
+   "y": 304,
+   "w": 350,
+   "h": 237
+  },
+  "home:body.main.ul.li1": {
+   "img": "home-4.webp",
+   "x": 42,
+   "y": 556,
+   "w": 328,
+   "h": 178
+  },
+  "home:body.main.ul.li2": {
+   "img": "home-5.webp",
+   "x": 42,
+   "y": 274,
+   "w": 328,
+   "h": 296
+  },
+  "home:body.main.h24": {
+   "img": "home-5.webp",
+   "x": 20,
+   "y": 618,
+   "w": 350,
+   "h": 47
+  },
+  "home:body.main.p11": {
+   "img": "home-6.webp",
+   "x": 20,
+   "y": 274,
+   "w": 350,
+   "h": 296
+  },
+  "home:body.main.h25": {
+   "img": "home-6.webp",
+   "x": 20,
+   "y": 618,
+   "w": 350,
+   "h": 47
+  },
+  "home:body.main.p12": {
+   "img": "home-7.webp",
+   "x": 20,
+   "y": 272,
+   "w": 350,
+   "h": 298
+  },
+  "home:body.main.p13": {
+   "img": "home-8.webp",
+   "x": 20,
+   "y": 274,
+   "w": 350,
+   "h": 296
+  },
+  "home:body.main.p14": {
+   "img": "home-9.webp",
+   "x": 20,
+   "y": 274,
+   "w": 350,
+   "h": 296
+  },
+  "home:body.main.p15": {
+   "img": "home-10.webp",
+   "x": 20,
+   "y": 289,
+   "w": 350,
+   "h": 266
+  },
+  "home:body.main.h26": {
+   "img": "home-10.webp",
+   "x": 20,
+   "y": 603,
+   "w": 350,
+   "h": 47
+  },
+  "home:body.main.p16": {
+   "img": "home-11.webp",
+   "x": 20,
+   "y": 289,
+   "w": 350,
+   "h": 266
+  },
+  "home:body.main.h27": {
+   "img": "home-11.webp",
+   "x": 20,
+   "y": 603,
+   "w": 350,
+   "h": 47
+  },
+  "home:body.main.p17": {
+   "img": "home-12.webp",
+   "x": 20,
+   "y": 289,
+   "w": 350,
+   "h": 266
+  },
+  "home:body.main.p18": {
+   "img": "home-12.webp",
+   "x": 20,
+   "y": 572,
+   "w": 350,
+   "h": 207
+  },
+  "home:body.main.h28": {
+   "img": "home-13.webp",
+   "x": 20,
+   "y": 378,
+   "w": 350,
+   "h": 89
+  },
+  "home:body.main.p19": {
+   "img": "home-13.webp",
+   "x": 20,
+   "y": 479,
+   "w": 350,
+   "h": 266
+  },
+  "home:body.main.p20": {
+   "img": "home-14.webp",
+   "x": 20,
+   "y": 363,
+   "w": 350,
+   "h": 118
+  },
+  "home:body.main.h29": {
+   "img": "home-14.webp",
+   "x": 20,
+   "y": 529,
+   "w": 350,
+   "h": 47
+  },
+  "home:body.main.p21": {
+   "img": "home-14.webp",
+   "x": 20,
+   "y": 589,
+   "w": 350,
+   "h": 207
+  },
+  "home:body.main.p22.a": {
+   "img": "home-14.webp",
+   "x": 20,
+   "y": 817,
+   "w": 204,
+   "h": 20
+  },
+  "home:body.main.div2": {
+   "img": "home-15.webp",
+   "x": 20,
+   "y": 301,
+   "w": 350,
+   "h": 241
+  },
+  "home:body.main.div3.dl.dt1": {
+   "img": "home-15.webp",
+   "x": 20,
+   "y": 639,
+   "w": 107,
+   "h": 28
+  },
+  "home:body.main.div3.dl.dt2": {
+   "img": "home-15.webp",
+   "x": 20,
+   "y": 674,
+   "w": 107,
+   "h": 28
+  },
+  "home:body.main.div3.dl.dt3": {
+   "img": "home-15.webp",
+   "x": 20,
+   "y": 708,
+   "w": 107,
+   "h": 28
+  },
+  "home:body.main.div3.dl.dt4": {
+   "img": "home-15.webp",
+   "x": 20,
+   "y": 743,
+   "w": 107,
+   "h": 28
+  },
+  "home:body.main.footer.div.nav:aria-label": {
+   "img": "home-16.webp",
+   "x": 20,
+   "y": 713,
+   "w": 86,
+   "h": 33
+  },
+  "home:body.main.footer.div.div:aria-label": {
+   "img": "home-16.webp",
+   "x": 218,
+   "y": 713,
+   "w": 152,
+   "h": 33
+  },
+  "home:body.main.footer.div.div.button1": {
+   "img": "home-16.webp",
+   "x": 222,
+   "y": 717,
+   "w": 70,
+   "h": 25
+  },
+  "home:body.main.footer.div.div.button2": {
+   "img": "home-16.webp",
+   "x": 292,
+   "y": 717,
+   "w": 30,
+   "h": 25
+  },
+  "home:body.main.footer.div.div.button3": {
+   "img": "home-16.webp",
+   "x": 322,
+   "y": 717,
+   "w": 44,
+   "h": 25
+  },
+  "home:body.main.footer.p": {
+   "img": "home-16.webp",
+   "x": 20,
+   "y": 758,
+   "w": 350,
+   "h": 22
+  },
+  "bodhisattva:body.main.p2": {
+   "img": "bodhisattva-0.webp",
+   "x": 20,
+   "y": 235,
+   "w": 350,
+   "h": 24
+  },
+  "bodhisattva:body.main.p3": {
+   "img": "bodhisattva-0.webp",
+   "x": 20,
+   "y": 307,
+   "w": 350,
+   "h": 237
+  },
+  "bodhisattva:body.main.h21": {
+   "img": "bodhisattva-0.webp",
+   "x": 20,
+   "y": 591,
+   "w": 350,
+   "h": 47
+  },
+  "bodhisattva:body.main.p4": {
+   "img": "bodhisattva-1.webp",
+   "x": 20,
+   "y": 319,
+   "w": 350,
+   "h": 207
+  },
+  "bodhisattva:body.main.pre": {
+   "img": "bodhisattva-2.webp",
+   "x": 20,
+   "y": 37,
+   "w": 350,
+   "h": 770
+  },
+  "bodhisattva:body.main.h22": {
+   "img": "bodhisattva-3.webp",
+   "x": 20,
+   "y": 378,
+   "w": 350,
+   "h": 89
+  },
+  "bodhisattva:body.main.h23": {
+   "img": "bodhisattva-4.webp",
+   "x": 20,
+   "y": 398,
+   "w": 350,
+   "h": 47
+  },
+  "bodhisattva:body.main.p6": {
+   "img": "bodhisattva-5.webp",
+   "x": 20,
+   "y": 200,
+   "w": 350,
+   "h": 444
+  },
+  "bodhisattva:body.main.h24": {
+   "img": "bodhisattva-5.webp",
+   "x": 20,
+   "y": 692,
+   "w": 350,
+   "h": 47
+  },
+  "bodhisattva:body.main.p7": {
+   "img": "bodhisattva-6.webp",
+   "x": 20,
+   "y": 244,
+   "w": 350,
+   "h": 355
+  },
+  "bodhisattva:body.main.p8": {
+   "img": "bodhisattva-7.webp",
+   "x": 20,
+   "y": 230,
+   "w": 350,
+   "h": 385
+  },
+  "bodhisattva:body.main.p9": {
+   "img": "bodhisattva-7.webp",
+   "x": 20,
+   "y": 630,
+   "w": 350,
+   "h": 207
+  },
+  "bodhisattva:body.main.h25": {
+   "img": "bodhisattva-8.webp",
+   "x": 20,
+   "y": 398,
+   "w": 350,
+   "h": 47
+  },
+  "bodhisattva:body.main.p10": {
+   "img": "bodhisattva-8.webp",
+   "x": 20,
+   "y": 458,
+   "w": 350,
+   "h": 266
+  },
+  "bodhisattva:body.main.p12": {
+   "img": "bodhisattva-9.webp",
+   "x": 20,
+   "y": 274,
+   "w": 350,
+   "h": 296
+  },
+  "bodhisattva:body.main.h26": {
+   "img": "bodhisattva-9.webp",
+   "x": 20,
+   "y": 618,
+   "w": 350,
+   "h": 47
+  },
+  "bodhisattva:body.main.p13": {
+   "img": "bodhisattva-10.webp",
+   "x": 20,
+   "y": 230,
+   "w": 350,
+   "h": 385
+  },
+  "bodhisattva:body.main.h27": {
+   "img": "bodhisattva-10.webp",
+   "x": 20,
+   "y": 663,
+   "w": 350,
+   "h": 47
+  },
+  "bodhisattva:body.main.p14": {
+   "img": "bodhisattva-10.webp",
+   "x": 20,
+   "y": 723,
+   "w": 350,
+   "h": 118
+  },
+  "bodhisattva:body.main.ul.li1": {
+   "img": "bodhisattva-11.webp",
+   "x": 42,
+   "y": 348,
+   "w": 328,
+   "h": 148
+  },
+  "bodhisattva:body.main.ul.li2": {
+   "img": "bodhisattva-11.webp",
+   "x": 42,
+   "y": 505,
+   "w": 328,
+   "h": 118
+  },
+  "bodhisattva:body.main.div2": {
+   "img": "bodhisattva-12.webp",
+   "x": 20,
+   "y": 288,
+   "w": 350,
+   "h": 267
+  },
+  "bodhisattva:body.main.div3.dl.dt3": {
+   "img": "bodhisattva-12.webp",
+   "x": 20,
+   "y": 721,
+   "w": 104,
+   "h": 28
+  },
+  "letters:head.meta6:content": {
+   "img": "letters-0.webp",
+   "x": 20,
+   "y": 144,
+   "w": 350,
+   "h": 116
+  },
+  "letters:body.main.p1": {
+   "img": "letters-0.webp",
+   "x": 20,
+   "y": 266,
+   "w": 350,
+   "h": 31
+  },
+  "letters:body.main.p2": {
+   "img": "letters-0.webp",
+   "x": 20,
+   "y": 307,
+   "w": 350,
+   "h": 24
+  },
+  "letters:body.main.p3": {
+   "img": "letters-0.webp",
+   "x": 20,
+   "y": 379,
+   "w": 350,
+   "h": 207
+  },
+  "letters:body.main.p4": {
+   "img": "letters-0.webp",
+   "x": 20,
+   "y": 602,
+   "w": 350,
+   "h": 118
+  },
+  "letters:body.main.ol.li1.div": {
+   "img": "letters-0.webp",
+   "x": 20,
+   "y": 798,
+   "w": 350,
+   "h": 23
+  },
+  "letters:body.main.ol.li1.p1": {
+   "img": "letters-1.webp",
+   "x": 20,
+   "y": 292,
+   "w": 350,
+   "h": 261
+  },
+  "letters:body.main.ol.li1.p2": {
+   "img": "letters-1.webp",
+   "x": 20,
+   "y": 561,
+   "w": 350,
+   "h": 23
+  },
+  "letters:body.main.ol.li2.div": {
+   "img": "letters-1.webp",
+   "x": 20,
+   "y": 643,
+   "w": 350,
+   "h": 23
+  },
+  "letters:body.main.ol.li2.p1": {
+   "img": "letters-2.webp",
+   "x": 20,
+   "y": 248,
+   "w": 350,
+   "h": 348
+  },
+  "letters:body.main.ol.li3.div": {
+   "img": "letters-2.webp",
+   "x": 20,
+   "y": 686,
+   "w": 350,
+   "h": 23
+  },
+  "letters:body.main.ol.li3.p1": {
+   "img": "letters-3.webp",
+   "x": 20,
+   "y": 248,
+   "w": 350,
+   "h": 348
+  },
+  "letters:body.main.ol.li4.div": {
+   "img": "letters-3.webp",
+   "x": 20,
+   "y": 686,
+   "w": 350,
+   "h": 23
+  },
+  "letters:body.main.ol.li4.p1": {
+   "img": "letters-4.webp",
+   "x": 20,
+   "y": 175,
+   "w": 350,
+   "h": 493
+  },
+  "letters:body.main.ol.li5.div": {
+   "img": "letters-4.webp",
+   "x": 20,
+   "y": 758,
+   "w": 350,
+   "h": 23
+  },
+  "letters:body.main.ol.li5.p1": {
+   "img": "letters-5.webp",
+   "x": 20,
+   "y": 109,
+   "w": 350,
+   "h": 626
+  },
+  "letters:body.main.div2": {
+   "img": "letters-6.webp",
+   "x": 20,
+   "y": 369,
+   "w": 350,
+   "h": 106
+  },
+  "letters:body.main.div3.dl.dt2": {
+   "img": "letters-6.webp",
+   "x": 20,
+   "y": 607,
+   "w": 104,
+   "h": 28
+  }
+ },
+ "missed": [
+  "home:head.title",
+  "home:head.meta3:content",
+  "home:head.meta8:content",
+  "home:head.meta12:content",
+  "bodhisattva:head.title",
+  "bodhisattva:head.meta3:content",
+  "bodhisattva:body.main.p5",
+  "bodhisattva:body.main.p11",
+  "letters:head.title",
+  "letters:head.meta3:content",
+  "letters:head.meta7:content"
+ ]
+}
