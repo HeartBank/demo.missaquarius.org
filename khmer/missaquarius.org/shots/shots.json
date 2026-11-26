@@ -1,5 +1,5 @@
 {
- "made": "2026-11-25T01:11:06.783Z",
+ "made": "2026-11-26T17:23:18.689Z",
  "viewport": {
   "width": 390,
   "height": 844
@@ -7,7 +7,7 @@
  "states": {
   "home": {
    "url": "/km/",
-   "found": 44,
+   "found": 45,
    "images": 17
   },
   "home-footer": {
@@ -302,6 +302,13 @@
    "y": 743,
    "w": 107,
    "h": 28
+  },
+  "home:body.main.footer.a2": {
+   "img": "home-16.webp",
+   "x": 138,
+   "y": 674,
+   "w": 113,
+   "h": 16
   },
   "home:body.main.footer.div.nav:aria-label": {
    "img": "home-16.webp",

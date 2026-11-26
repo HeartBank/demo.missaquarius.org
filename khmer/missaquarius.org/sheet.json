@@ -5,8 +5,8 @@
  "about": "Miss Aquarius's own site: who she is, the bodhisattva architecture, and the Letters to her (the letters themselves stay English).",
  "about_km": "គេហទំព័ររបស់ Miss Aquarius ផ្ទាល់៖ នាងជានរណា ស្ថាបត្យកម្មពោធិសត្វ និងសំបុត្រផ្ញើទៅនាង (សំបុត្រទាំងនោះនៅតែជាភាសាអង់គ្លេស)។",
  "accent": "#7a1d1d",
- "made": "2026-11-24",
- "commit": "0ba303b",
+ "made": "2026-11-26",
+ "commit": "39ace17",
  "groups": [
   {
    "name": "The front page",
@@ -365,6 +365,13 @@
      "km": "ការិយាល័យ៖",
      "note": "under “Letters”",
      "note_km": "ក្រោម «សំបុត្រ»"
+    },
+    {
+     "key": "home:body.main.footer.a2",
+     "en": "Privacy policy",
+     "km": "គោលការណ៍ឯកជនភាព",
+     "note": "a link, the footer",
+     "note_km": "តំណ · បាតទំព័រ"
     },
     {
      "key": "home:body.main.footer.div.nav:aria-label",
